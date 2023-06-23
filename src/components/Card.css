@@ -1,0 +1,44 @@
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+  }
+.card-name{
+    font-size: 20px;
+}
+  
+  .card-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .card-type-icon {
+    background-color: #ccc;
+    color: #fff;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+  }
+  
+  .card-details {
+    font-size: 14px;
+  }
+  
+  .expiry,
+  .limit {
+    margin-bottom: 5px;
+  }
+  
+  .budget-name,
+  .status {
+    font-style: italic;
+    color: #666;
+  }
+  
+  /* Add any additional styles as needed */
+  
